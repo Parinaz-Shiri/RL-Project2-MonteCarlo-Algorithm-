@@ -16,8 +16,8 @@ For a comprehensive explanation of the theory and detailed results achieved thro
 
 ## Authors
 
-- Parinaz Shiri
-- Himani Thakkar
+- [Parinaz Shiri](https://github.com/parinaz-shiri)
+- [Himani Thakkar](https://github.com/hiimani28)
 
 ## Libraries Used
 
