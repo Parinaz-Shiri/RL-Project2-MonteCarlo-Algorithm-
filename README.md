@@ -2,7 +2,7 @@
 
 This project is a simulation of a GridWorld environment implemented using Python and Tkinter. The purpose of the simulation is to demonstrate different value and policy estimation algorithms for policy evaluation and improvement. The GridWorld environment includes special states with predefined transitions and rewards. The agent explores the grid, learns the value function, and updates its policy to maximize the cumulative reward.
 
-<img src="Grid-Environment" alt="GridWorld Overview" width="300" height="300">
+<img src="Grid-Environment" alt="GridWorld Overview" width="500" height="500">
 
 ## Features
 
