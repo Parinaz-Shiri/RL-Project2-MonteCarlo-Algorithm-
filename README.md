@@ -1,8 +1,8 @@
 # RL-Project2-MonteCarlo-Algorithm-
 
-## Overview
-
 This project is a simulation of a GridWorld environment implemented using Python and Tkinter. The purpose of the simulation is to demonstrate different value and policy estimation algorithms for policy evaluation and improvement. The GridWorld environment includes special states with predefined transitions and rewards. The agent explores the grid, learns the value function, and updates its policy to maximize the cumulative reward.
+
+![GridWorld Overview](gridworld_overview.png)
 
 ## Features
 
